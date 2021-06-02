@@ -97,7 +97,6 @@ footer>p{
     background-color:#1e1e1e;
     animation: byeShutter 2.5s forwards;
 }
-/* フェイクの読み込み中のコーディングバー */
 .shutter::before{
     content:"";
     position:absolute;
